@@ -1,5 +1,5 @@
 # Coding_Assignment_3
-1] Write a program to accept an integer N and calculate the sum of its digits. Please note N can have maximum 5 digits.
+1. Write a program to accept an integer N and calculate the sum of its digits. Please note N can have maximum 5 digits.
 2] Write a program to accept an integer N and generate an integer M which is formed by reversing the digits of N. Please note N can have maximum 5 digit
 3] Write a program to accept an integer N and generate an integer M which is formed by reversing the digits of N. Please note N can have maximum 5 digits. Print the numbers N and M. Compare N with M and print the result.
 4] Write a program to accept 5 digit integer N and calculate the sum of its first and fifth digit.
